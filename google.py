@@ -4,7 +4,7 @@ import json
 import os
 from bs4 import BeautifulSoup
 
-FORM_URL = "https://docs.google.com/forms/d/1Pw1glOy011_HzAaCAsx1icVtfFix6zemQdwNC1mDyQo/edit"
+FORM_URL = "Paste URL"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 
 def get_html(url):
